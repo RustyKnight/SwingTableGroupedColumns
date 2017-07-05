@@ -1,4 +1,4 @@
-#`JTable` Grouped Columns implement
+#`JTable` Grouped Columns implementation
 
 This is a Java/Swing `JTable` implementation of grouped columns
 
